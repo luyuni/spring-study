@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	   xmlns:luyuni="http://www.luyuni.top/schema/people"
+	   xmlns="http://www.springframework.org/schema/beans"
+	   xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.3.xsd
+       http://www.luyuni.top/schema/people http://www.luyuni.top/schema/people/people.xsd">
+
+
+	<luyuni:people id="niyulu" name="倪裕禄" age="18"/>
+
+</beans>
